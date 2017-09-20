@@ -1,0 +1,8 @@
+﻿ProductName, ProductCode, ProductPrice, ProductImage
+Baseball, BSB, 12.99, intern/images/baseball.jpeg
+Basketball, BKT, 15.99, intern/images/basketball.jpeg
+Soccer, SCR, 28.99, intern/images/soccer.jpeg
+Tennis, TNS, 4.99, intern/images/tennisball.jpeg
+Football, FTB, 12.99, intern/images/football.jpeg
+Golf, GLF, 18.99, intern/images/golfball.jpeg
+Boxing Gloves, BG, 22.99, intern/images/boxing.jpeg
